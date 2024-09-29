@@ -1,1 +1,1 @@
-### A project for [the hackathon](https://zavodit.ru/ru/calendar/event/61)
+### A project for [the hackathon](https://it-innohack.ru/)
